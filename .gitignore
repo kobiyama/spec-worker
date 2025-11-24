@@ -1,6 +1,7 @@
 # Claude Code / Speckit (local tooling)
 .claude/
-.specify/
+.specify/templates/
+.specify/scripts/
 
 # Node.js
 node_modules/
